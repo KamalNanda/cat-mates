@@ -10,9 +10,9 @@ The search results can be filtered based on below attributes:
 
 # Below are the screens:
 
-![Screenshot 1](../../screenshot1.JPG)
-![Screenshot 2](../../screenshot2.JPG)
-![Screenshot 3](../../screenshot3.JPG)
+![Screenshot 1](https://ik.imagekit.io/hbj42mvqwv/screenshot1_JERIYffvU.JPG)
+![Screenshot 2](https://ik.imagekit.io/hbj42mvqwv/screenshot2_eFYDSc9Dv.JPG)
+![Screenshot 3](https://ik.imagekit.io/hbj42mvqwv/screenshot3_lFcAw8Lq27.JPG)
 
 All bed categories can be accessed when clicked on ‘View Beds’
 
